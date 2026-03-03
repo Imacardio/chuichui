@@ -1,0 +1,42 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260302-221543-w3dd",
+      "title": "I Bronky I",
+      "commanders": [
+        "I Bronky I"
+      ],
+      "dateStart": "2026-03-02T21:15:43.000Z",
+      "dateEnd": "2026-03-02T22:45:02.000Z",
+      "dateLabel": "2/3/2026, 22:15:43 - 2/3/2026, 23:45:02",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260302-221543-w3dd",
+      "summary": {
+        "borderlandsPct": 0.6486486486486487,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 14
+      }
+    }
+  ]
+}
