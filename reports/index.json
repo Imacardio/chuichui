@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260303-223011-6dcl",
+      "title": "Masnuelinn, Masnuelinx",
+      "commanders": [
+        "Masnuelinn",
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-03-03T21:30:11.000Z",
+      "dateEnd": "2026-03-03T22:55:31.000Z",
+      "dateLabel": "3/3/2026, 22:30:11 - 3/3/2026, 23:55:31",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260303-223011-6dcl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260303-223011-cm73",
       "title": "Masnuelinn, Masnuelinx",
       "commanders": [
