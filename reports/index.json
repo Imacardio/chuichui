@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260305-223515-0v1u",
+      "title": "Zaldunarenn",
+      "commanders": [
+        "Zaldunarenn"
+      ],
+      "dateStart": "2026-03-05T21:35:15.000Z",
+      "dateEnd": "2026-03-05T23:00:02.000Z",
+      "dateLabel": "5/3/2026, 22:35:15 - 6/3/2026, 0:00:02",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260305-223515-0v1u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260304-222625-lqc2",
       "title": "Bronky Ambulancia",
       "commanders": [
