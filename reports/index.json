@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260309-223733-84jo",
+      "title": "Bronky Ambulancia",
+      "commanders": [
+        "Bronky Ambulancia"
+      ],
+      "dateStart": "2026-03-09T21:37:33.000Z",
+      "dateEnd": "2026-03-09T22:53:31.000Z",
+      "dateLabel": "9/3/2026, 22:37:33 - 9/3/2026, 23:53:31",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260309-223733-84jo",
+      "summary": {
+        "borderlandsPct": 0.1875,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260309-223733-gnoj",
       "title": "Bronky Ambulancia",
       "commanders": [
