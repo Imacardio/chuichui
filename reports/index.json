@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260315-222125-mjus",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-03-15T21:21:25.000Z",
+      "dateEnd": "2026-03-15T22:52:14.000Z",
+      "dateLabel": "15/3/2026, 22:21:25 - 15/3/2026, 23:52:14",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260315-222125-mjus",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260309-223733-84jo",
       "title": "Bronky Ambulancia",
       "commanders": [
