@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260316-222201-1aew",
+      "title": "Bronky Ambulancia",
+      "commanders": [
+        "Bronky Ambulancia"
+      ],
+      "dateStart": "2026-03-16T21:22:01.000Z",
+      "dateEnd": "2026-03-16T23:00:42.000Z",
+      "dateLabel": "16/3/2026, 22:22:01 - 17/3/2026, 0:00:42",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260316-222201-1aew",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260315-222125-mjus",
       "title": "Masnuelinx",
       "commanders": [
