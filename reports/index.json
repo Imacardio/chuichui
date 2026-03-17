@@ -6,6 +6,36 @@
   },
   "entries": [
     {
+      "id": "20260317-225258-rgr0",
+      "title": "Breissingr, Bronky Ambulancia, Zaldunarenn",
+      "commanders": [
+        "Breissingr",
+        "Bronky Ambulancia",
+        "Zaldunarenn"
+      ],
+      "dateStart": "2026-03-17T21:52:58.000Z",
+      "dateEnd": "2026-03-17T22:41:48.000Z",
+      "dateLabel": "17/3/2026, 22:52:58 - 17/3/2026, 23:41:48",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260317-225258-rgr0",
+      "summary": {
+        "borderlandsPct": 0.7272727272727273,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260316-222201-1aew",
       "title": "Bronky Ambulancia",
       "commanders": [
