@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260322-224402-2bp6",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-03-22T21:44:02.000Z",
+      "dateEnd": "2026-03-22T22:29:13.000Z",
+      "dateLabel": "22/3/2026, 22:44:02 - 22/3/2026, 23:29:13",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260322-224402-2bp6",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260318-224158-h599",
       "title": "Zaldunarenn",
       "commanders": [
