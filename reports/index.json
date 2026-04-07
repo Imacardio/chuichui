@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260407-221548-e8sb",
+      "title": "Masnuelinx",
+      "commanders": [
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-04-07T20:15:48.000Z",
+      "dateEnd": "2026-04-07T21:39:21.000Z",
+      "dateLabel": "7/4/2026, 22:15:48 - 7/4/2026, 23:39:21",
+      "url": "https://Imacardio.github.io/chuichui/?report=20260407-221548-e8sb",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260330-222002-p58m",
       "title": "Zaldunarenn",
       "commanders": [
